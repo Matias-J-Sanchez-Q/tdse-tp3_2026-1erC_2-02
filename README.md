@@ -8,4 +8,4 @@
 ### Responsable de la entrega:
 | Padrón | Apellidos, Nombres | Fecha | Deadline |
 | :----- | :--------------------- | :------: | :-------: |
-| 111060 | :Sanchez Quevedo, Matias Jose | 30/04/2026 | Semana 8 |
+| 111060 | Sanchez Quevedo, Matias Jose | 30/04/2026 | Semana 8 |
