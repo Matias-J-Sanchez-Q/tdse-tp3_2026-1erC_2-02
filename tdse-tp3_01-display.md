@@ -140,3 +140,11 @@ Esta función es una Máquina de Estados Finitos (FSM) que se encarga de actuali
     3. Finalmente, retorna su estado a `ST_DSP_IDLE` para quedar a la espera del próximo evento de actualización.
         
 - **`default`**: Un mecanismo de seguridad por si la FSM entra en un estado corrupto o no válido, devolviéndola inmediatamente al estado `ST_DSP_IDLE` y limpiando sus banderas.
+
+# Análisis de Tiempos - Actividad 01
+
+**Unidad de medida:** Microsegundos (us)
+
+**Valores obtenidos de task_dta_list tras varias ejecuciones:**
+* task_test (Index 0) WCET:  35 us
+* task_display (Index 1) WCET: 6267 us
